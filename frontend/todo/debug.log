@@ -1,0 +1,2 @@
+[0327/161730.348:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\ARTHUR~1.SIL\AppData\Local\Temp\scoped_dir26764_341887324\Crashpad: O sistema não pode encontrar o arquivo especificado. (0x2)
+[0327/162035.425:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\ARTHUR~1.SIL\AppData\Local\Temp\karma-6182119\Crashpad: O sistema não pode encontrar o arquivo especificado. (0x2)
